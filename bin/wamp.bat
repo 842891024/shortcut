@@ -1,0 +1,1 @@
+start "" "C:\wamp\wampmanager.exe"

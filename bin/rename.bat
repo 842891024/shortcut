@@ -1,0 +1,1 @@
+start "" "C:\Program Files (x86)\超级文件批量重命名工具v1.0\超级文件批量重命名工具v1.0.exe"

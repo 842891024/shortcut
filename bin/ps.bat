@@ -1,0 +1,1 @@
+start "" "C:\Program Files\Adobe\Adobe Photoshop CC 2014\Photoshop.exe"
